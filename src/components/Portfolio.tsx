@@ -25,9 +25,9 @@ const images: ImageProps[] = [
   { 
     src: 'src/images/image1.png', 
     alt: 'Bild 2', 
-    link: 'https://github.com/Vwalln99', 
+    link: 'https://github.com/Vwalln99/Portfolio_Viktoria', 
     style: { width: '150px', height: '150px', transform: 'scale(1.2)' , isGif: false },
-    caption: 'GitHub Profile'
+    caption: 'GitHub Repository'
   },
   { 
     src: 'src/images/image3.png', 
@@ -55,7 +55,7 @@ const images: ImageProps[] = [
     alt: 'Bild 6', 
     link: 'https://github.com/Vwalln99', 
     style: { width: '150px', height: '150px', transform: 'scale(1.2)' , isGif: false },
-    caption: 'GitHub Repository'
+    caption: 'GitHub Profile'
   }
 ];
 
