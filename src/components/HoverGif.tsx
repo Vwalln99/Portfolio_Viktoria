@@ -35,10 +35,10 @@ export default function HoverGif(){
       onMouseLeave={() => setIsHovered(false)}
     >
 
-      <StaticImage src="src/images/image2.png" alt="Static"  isHovered={isHovered} />
+      <StaticImage src="/images/image2.png" alt="Static"  isHovered={isHovered} />
       
       <AnimatedImage
-        src="src/images/image2-animated.GIF"
+        src="/images/image2-animated.GIF"
         alt="Animated"
         isHovered={isHovered}
       />

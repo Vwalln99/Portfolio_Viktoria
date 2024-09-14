@@ -16,42 +16,42 @@ interface ImageProps {
 
 const images: ImageProps[] = [
   { 
-    src: 'src/images/image2.png', 
+    src: '/images/image2.png', 
     alt: 'Bild 1', 
     link: '/resume', 
     style: { width: '350px', height: '450px', transform: 'rotate(10deg)', isGif: true },
     caption: 'CV'
   },
   { 
-    src: 'src/images/image1.png', 
+    src: '/images/image1.png', 
     alt: 'Bild 2', 
     link: 'https://github.com/Vwalln99/Portfolio_Viktoria', 
     style: { width: '150px', height: '150px', transform: 'scale(1.2)' , isGif: false },
     caption: 'GitHub Repository'
   },
   { 
-    src: 'src/images/image3.png', 
+    src: '/images/image3.png', 
     alt: 'Bild 3', 
     link: 'https://vwalln99.github.io/Moonbucks-Coffee-Shop/', 
     style: { width: '120px', height: '120px', transform: 'rotate(-5deg)' , isGif: false },
     caption: 'Moonbucks Coffee Shop'
   },
   { 
-    src: 'src/images/image4.png', 
+    src: '/images/image4.png', 
     alt: 'Bild 4', 
     link: 'https://vwalln99.github.io/A-Normal-Day/', 
     style: { width: '120px', height: '120px', transform: 'rotate(5deg)' , isGif: false },
     caption: 'A Normal Day Game'
   },
   { 
-    src: 'src/images/image5.png', 
+    src: '/images/image5.png', 
     alt: 'Bild 5', 
     link: 'https://shopping-cart-spa.vercel.app/', 
     style: { width: '120px', height: '120px', transform: 'rotate(-5deg)' , isGif: false },
     caption: 'Shopping Cart SPA'
   },
   { 
-    src: 'src/images/image6.png', 
+    src: '/images/image6.png', 
     alt: 'Bild 6', 
     link: 'https://github.com/Vwalln99', 
     style: { width: '150px', height: '150px', transform: 'scale(1.2)' , isGif: false },
