@@ -18,7 +18,7 @@ const images: ImageProps[] = [
   { 
     src: '/images/image2.png', 
     alt: 'Bild 1', 
-    link: 'src/components/resume', 
+    link: '/resume', 
     style: { width: '350px', height: '450px', transform: 'rotate(10deg)', isGif: true },
     caption: 'CV'
   },
