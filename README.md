@@ -2,7 +2,6 @@
 
 **Eine moderne Portfolio-Website, erstellt mit React und TypeScript, zur Präsentation von Projekten und Lebenslauf.**
 
-https://portfolio-viktoria.vercel.app/
 ---
 
 ## 📖 Überblick
